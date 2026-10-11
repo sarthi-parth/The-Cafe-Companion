@@ -1,0 +1,6 @@
+{
+  "name": "Craft & Bloom - The Café Companion",
+  "description": "Artisan specialty coffee companion with real-time queue telemetry, intelligent voice ordering, table reservations, community co-presence radar, and barista staff operations hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
